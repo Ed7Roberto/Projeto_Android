@@ -68,7 +68,7 @@ nav{
     background-color: var(--cor5);
     padding: 10px;
     box-shadow: 0px 8px 8px 0px rgba(2, 96, 24, 0.604);
-    font-weight: bold;
+    font-weight: normal;
     
 }
 nav > a:hover{
@@ -78,7 +78,7 @@ nav > a:hover{
 
 }
 nav > a{
-    padding: 10px;
+    padding: 3px;
     color:var(--cor1);
     text-decoration: none;
     transition-duration: 0.5s;
